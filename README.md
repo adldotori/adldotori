@@ -1,2 +1,1 @@
-LEE TAEHO
-
+# I'm AI Vision Engineer, Taeho
