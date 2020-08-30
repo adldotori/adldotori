@@ -4,4 +4,4 @@
 [![aihub Badge](https://img.shields.io/static/v1.svg?label=blog&message=ai-hub.kr&color=purple)](http://ai-hub.kr/)
 
 
-[![adldotori's github stats](https://github-readme-stats.vercel.app/api?username=adldotori&show_icons=true)](https://github.com/adldotori/github-readme-stats)
+[![adldotori's github stats](https://github-readme-stats.vercel.app/api?username=adldotori&show_icons=true)](https://github-readme-stats.vercel.app/api?username=adldotori)
