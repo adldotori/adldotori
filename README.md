@@ -6,7 +6,6 @@
 
 <h3 align="center">📘 Technology Stack 📘</h3>
 <p align="center">
-  Programming Language
   <br>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C"/>&nbsp
   <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python"/>&nbsp
@@ -20,15 +19,11 @@
   <img src="https://img.shields.io/badge/-jQuery-0769ad?logo=jQuery"/>&nbsp
   <br>
   <br>
-  Framework
-  <br>
   <img src="https://img.shields.io/badge/-PyTorch-000000?logo=PyTorch"/>&nbsp
   <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas"/>&nbsp
   <img src="https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn"/>&nbsp
   <img src="https://img.shields.io/badge/-Django-092e20?logo=django"/>&nbsp
   <br>
-  <br>
-  Utils
   <br>
   <img src="https://img.shields.io/badge/-AWS-ffffff?logo=Amazon"/>&nbsp
   <img src="https://img.shields.io/badge/-git-ffffff?logo=git"/>&nbsp
