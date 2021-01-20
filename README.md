@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=TAEHO)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&text=Software%20Engineer,%20TAEHO&fontSize=60&fontAlignY=40&animation=fadeIn)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adldotori)](https://github.com/adldotori)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taeho-lee-7240921a5/)](https://www.linkedin.com/in/taeho-lee-7240921a5/) 
@@ -33,3 +33,5 @@
 
 
 [![adldotori's github stats](https://github-readme-stats.vercel.app/api?username=adldotori&show_icons=true)](https://github-readme-stats.vercel.app/api?username=adldotori)
+
+![wave](https://capsule-render.vercel.app/api?section=footer&type=wave&color=timeGradient&height=150)
