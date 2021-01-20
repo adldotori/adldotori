@@ -1,4 +1,4 @@
-# I'm Machine Learning Engineer, Taeho
+![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=TAEHO)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adldotori)](https://github.com/adldotori)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taeho-lee-7240921a5/)](https://www.linkedin.com/in/taeho-lee-7240921a5/) 
