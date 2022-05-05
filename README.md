@@ -1,7 +1,7 @@
 ![wave](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&text=Software%20Engineer,%20TAEHO&fontSize=60&fontAlignY=40&animation=fadeIn)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adldotori)](https://github.com/adldotori)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taeho-lee-7240921a5/)](https://www.linkedin.com/in/taeho-lee-7240921a5/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taeho-lee-7240921a5/)](https://www.linkedin.com/in/adldotori/) 
 [![t4eh0 Badge](https://img.shields.io/static/v1.svg?label=blog&message=t4eh0&color=purple)](https://www.t4eh0.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadldotori&count_bg=%23000000&title_bg=%23000000&icon=drooble.svg&icon_color=%23FF0000&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
