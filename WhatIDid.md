@@ -22,7 +22,7 @@
 
 > https://github.com/adldotori/6stones
 
-### 분산학습 (PipeDream)
+### Distributed Learning (PipeDream)
 
 > https://github.com/adldotori/PipeDream
 
@@ -54,43 +54,59 @@
 
 ### ETC
 
-- CUDA 스터디
+- CUDA Study Group
 
 ## ![](https://img.shields.io/badge/level%201-beginner-84b918) Frontend Development
 
 - https://github.com/adldotori/NaTTakNews
+- Develop Helloalgo
+  - Basic HTML, CSS, JS
 - AIHub
   - Basic HTML, CSS, JS
   - Use django template
 
 ## ![](https://img.shields.io/badge/level%202-advanced-ebd30d) Backend Developmment
 
-- Software Engineering Technique 스터디
-  - 프로그래밍수련법
-  - 리팩토링
-  - 10bottles
-  - Design Pattern
-  - 클린아키텍처
-- Python, TypeScript, Golang, C++, Java
-- NestJS, Django
-- AIhub 개발
-- BEAT 개발
+- Language: Python, TypeScript, Golang, C++, Java
+- Framework: NestJS, Django
+- Develop [Helloalgo]
+- Develop [AIhub](https://www.t4eh0.com/ai-hub/) [2019.08-2022.04]
+- Develop [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) [2022]
+  - Actuator
+  - Light Trainer
+  - Receiver
+  - Inference (produce, bid)
+- Software Engineering Technique Study Group [2021.06-2022.08]
+  - [The practice of programming](http://www.yes24.com/Product/Goods/2833579)
+  - [Refactoring](http://www.yes24.com/Product/Goods/89649360)
+  - [99 Bottles of OOP](https://sandimetz.com/99bottles)
+  - [Design Pattern](https://refactoring.guru/)
+  - [Clean Architecture](http://www.yes24.com/Product/Goods/77283734)
 
-## ![](https://img.shields.io/badge/level%201-beginner-84b918)Machine Learning Operations (MLOps)
+## ![](https://img.shields.io/badge/level%203-competent-f08c11) Architecture Design
 
-- django middleware 활용
-- gRPC
+- Design [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) that bids for ads using a control model and CTR prediction model that use 10K data per second. [2022, Corca]
 
 ## ![](https://img.shields.io/badge/level%203-competent-f08c11) Data Engineering
 
-- Kafka, Druid, Kinesis
-- 분산시스템 스터디
-
-## ![](https://img.shields.io/badge/level%202-advanced-ebd30d) Architecture Design
-
-- BEAT 설계
+- Apply Kafka, Druid, Kinesis to [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) [2022, Corca]
+- Data Transform, Data Analysis, Data Store, Data Load
+- Distributed System Study Group [2022, Corca]
 
 ## ![](https://img.shields.io/badge/level%203-competent-f08c11) Development Operations (DevOps)
 
-- BEAT 배포 (ECS, MSK, github actions, pulumi)
-- DevOpsCurriculum 개발
+- **Container** (docker, docker-compose) [2020, 2021, 2022 : Corca]
+- **Functional Test**;Unit, Integration, End2End [2021, 2022 : Corca]
+- **Non-Functional Test**; Performance, Stress, Recovery [2022, Corca]
+- **CI/CD** (github actions) [2021, 2022 : Corca]
+- **IaC** (pulumi) [2021, 2022 : Corca]
+- **Monitoring**; logging, monitoring, alerting (aws lambda, sns, cloudwatch) [2022 : Corca]
+- **[BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) Deployment** (ECS, MSK, github actions, pulumi) [2022 : Corca]
+- **DevOpsCurriculum Development** [2022 : Corca]
+
+## ![](https://img.shields.io/badge/level%201-beginner-84b918)Machine Learning Operations (MLOps)
+
+- django middleware
+- gRPC
+- Experiment Tracking (wandb)
+- checkpoint manage
