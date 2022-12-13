@@ -2,6 +2,7 @@
 
 # Career
 
+- Seoul Science High School (SSHS) [2014.03-2017.02]
 - Korea University Cyber Defense [2017.03-2021.02]
 - iOS Developer in ZI:UM [2017.03-2017.06]
 - Web Full Stack Engineer in HelloAlgo [2019.02-2019.08]
