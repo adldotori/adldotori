@@ -6,9 +6,10 @@
 - iOS Developer in ZI:UM [2017.03-2017.06]
 - Web Full Stack Engineer in HelloAlgo [2019.02-2019.08]
 - ML Engineer in MindLogic [2020.01-2020.10]
-- Freelance in Corca [2020.10-2021.02]
-- ML Engineer in Corca [2021.03-2022.02]
-- Tech Lead in Corca [2022.03-Present]
+- Corca [2020.10-Present]
+  - Freelance [2020.10-2021.02]
+  - ML Engineer [2021.03-2022.02]
+  - Tech Lead [2022.03-Present]
 
 # Business
 
