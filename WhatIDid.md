@@ -1,8 +1,31 @@
 ![](https://img.shields.io/badge/level%201-beginner-84b918) ![](https://img.shields.io/badge/level%202-advanced-ebd30d) ![](https://img.shields.io/badge/level%203-competent-f08c11) ![](https://img.shields.io/badge/level%204-proficient-e63c11) ![](https://img.shields.io/badge/level%205-expert-db0011)
 
+# Career
+
+- Korea University Cyber Defense [2017.03-2021.02]
+- iOS Developer in ZI:UM [2017.03-2017.06]
+- Web Full Stack Engineer in HelloAlgo [2019.02-2019.08]
+- ML Engineer in MindLogic [2020.01-2020.10]
+- Freelance in Corca [2020.10-2021.02]
+- ML Engineer in Corca [2021.03-2022.02]
+- Tech Lead in Corca [2022.03-Present]
+
 # Business
 
+- Write IR deck about tech team
+- Develop and plan new products considering network effects
+
 # Leadership
+
+- Efficiently lead a team of 10 or more people
+- Assign tasks considering priorities, team members' capabilities, etc
+- Tech Seminar every monday
+- Tech Curriculum Development (MLOps, Data)
+- Hire Process (Assigment Development, Tech Interview)
+- Postmortem Culture
+- Clarificate Part's R&R (ML, MLOps, Data Part)
+- 1 On 1 Interview
+- Develop team's code quality through code review
 
 # Tech
 
@@ -18,13 +41,25 @@
 
 ## ![](https://img.shields.io/badge/level%203-competent-f08c11) Machine Learning
 
-### 오목 AI
+### 5stones AI [2018.08]
 
 > https://github.com/adldotori/6stones
 
-### Distributed Learning (PipeDream)
+- Team Name: 5목할래요
+- Second Place in Seoul
+- Calculate a value network after 10 moves
+- alpha/beta pruning
+- [기사: 소프트웨어 엔지니어 인재 발굴을 위한 ‘육목 SW 알고리즘 대회’](https://www.samsungsemiconstory.com/kr/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%9D%B8%EC%9E%AC-%EB%B0%9C%EA%B5%B4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9C%A1%EB%AA%A9-sw-%EC%95%8C%EA%B3%A0/)
+  > 치열한 접전 끝에 ‘베타몽’ 팀과 ‘5목할래요’ 팀이 결승에 진출했는데요. 결승전을 앞두고 긴장을 풀기 위해 미니 이벤트도 진행되었습니다. 두 우승 후보 중 승리할 것 같은 팀에 투표를 하면 추첨을 통해 선물을 증정하는 이벤트였는데요. 가장 많은 표를 획득한 팀은 바로 ‘베타몽’ 팀. 예선전부터 무패신화를 기록하고 있는 팀이어서 더욱 눈길을 끌었습니다.
+
+### Distributed Learning (PipeDream) [2019.09]
 
 > https://github.com/adldotori/PipeDream
+
+- [PipeDream: Fast and Efficient Pipeline Parallel DNN Training](https://arxiv.org/abs/1806.03377)
+- AIO socket programming
+- CUDA programming
+- Learning a simple MLP across two machines
 
 ### Basic ML Model Implementation
 
@@ -38,39 +73,53 @@
 
 ### Advanced ML Model Implementation
 
-- https://github.com/adldotori/PLA-Attention-Model
-- pSp: https://github.com/adldotori/pSp
-  - with [2lcm](https://github.com/2lcm)
-  - Implemented the paper a month after it was released in [arxiv](https://arxiv.org/abs/2008.00951)
+- https://github.com/adldotori/ClothFlow [2020.01-2020.02]
+  - [ClothFlow: A Flow-Based Model for Clothed Person Generation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf)
+  - First Implementation
+  - https://paperswithcode.com/paper/clothflow-a-flow-based-model-for-clothed
+- pSp: https://github.com/adldotori/pSp with [2lcm](https://github.com/2lcm) [2020.09]
+  - [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/pdf/2008.00951.pdf)
+  - First Implementation
+  - Implemented the paper a month after it was released
   - Implemented 3 weeks before the [official repo](https://github.com/eladrich/pixel2style2pixel) is released
-- https://github.com/adldotori/PLA-Attention-Model
-- https://github.com/adldotori/PartialCGAN
-- https://github.com/adldotori/ClothFlow
+  - https://paperswithcode.com/paper/encoding-in-style-a-stylegan-encoder-for
+- https://github.com/adldotori/PLA-Attention-Model [2020.06]
+  - [Packet-Length-Adjustable Attention Model Based on Bytes Embedding Using Flow-WGAN for Smart Cybersecurity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744218&tag=1)
+- https://github.com/adldotori/PartialCGAN [2020.05]
+  - Pytorch implementation of Partial conditional Generative Adversarial Networks
+  - Our goal is when we will give two conditions, makes two digits number image. But, only give one condition when training.
 
 ### New ML Model Development
 
-- conditionedBody
-- MGS
+- conditionedBody [2020, MindLogic]
+
+  - Create a person's entire body image with face image condition
+
+- MGS [2022, Corca]
+  - Sales forecasting Model considering sale events for Emart
 
 ### ETC
 
-- CUDA Study Group
+- [CUDA Study Group](https://github.com/adldotori/CUDA)
 
 ## ![](https://img.shields.io/badge/level%201-beginner-84b918) Frontend Development
 
 - https://github.com/adldotori/NaTTakNews
-- Develop Helloalgo
+- Develop [Helloalgo](https://study.helloalgo.co.kr/shop/)
   - Basic HTML, CSS, JS
-- AIHub
+  - Use django template
+- Develop [AIHub] (self-developed blog running on AWS) [2019.08-2022.04]
   - Basic HTML, CSS, JS
   - Use django template
 
 ## ![](https://img.shields.io/badge/level%202-advanced-ebd30d) Backend Developmment
 
-- Language: Python, TypeScript, Golang, C++, Java
+- Language: Python, TypeScript, Golang, C++, Java (sort by skill level)
 - Framework: NestJS, Django
-- Develop [Helloalgo]
-- Develop [AIhub](https://www.t4eh0.com/ai-hub/) [2019.08-2022.04]
+- Develop [Helloalgo](https://study.helloalgo.co.kr/shop/)
+  - Django
+- Develop [AIhub](https://www.t4eh0.com/ai-hub/) (self-developed blog running on AWS) [2019.08-2022.04]
+  - Django
 - Develop [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) [2022]
   - Actuator
   - Light Trainer
@@ -102,9 +151,9 @@
 - **IaC** (pulumi) [2021, 2022 : Corca]
 - **Monitoring**; logging, monitoring, alerting (aws lambda, sns, cloudwatch) [2022 : Corca]
 - **[BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) Deployment** (ECS, MSK, github actions, pulumi) [2022 : Corca]
-- **DevOpsCurriculum Development** [2022 : Corca]
+- **MLOpsCurriculum Development** [2022 : Corca]
 
-## ![](https://img.shields.io/badge/level%201-beginner-84b918)Machine Learning Operations (MLOps)
+## ![](https://img.shields.io/badge/level%202-advanced-ebd30d) Machine Learning Operations (MLOps)
 
 - django middleware
 - gRPC
