@@ -35,10 +35,4 @@
 
 [![adldotori's github stats](https://github-readme-stats.vercel.app/api?username=adldotori&show_icons=true)](https://github-readme-stats.vercel.app/api?username=adldotori)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adldotori/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adldotori/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adldotori/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/adldotori/discussion)
-
-
 ![wave](https://capsule-render.vercel.app/api?section=footer&type=wave&color=timeGradient&height=150)
