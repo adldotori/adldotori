@@ -90,7 +90,7 @@ focusing on Machine Learning (ML), Development (Dev), including:
 
 ## 3.1. Software 1.0 (Development) ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 
-## 3.1.1. Client(Web) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
+### 3.1.1. Client(Web) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
 
 - https://github.com/adldotori/NaTTakNews
 - Develop [Helloalgo](https://study.helloalgo.co.kr/shop/)
@@ -100,18 +100,18 @@ focusing on Machine Learning (ML), Development (Dev), including:
   - Basic HTML, CSS, JS
   - Use django template
 
-## 3.1.2. Client(App) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
+### 3.1.2. Client(App) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
 
 - KU슐랭 (TODO)
 
-## 3.1.3. Client(XR) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
+### 3.1.3. Client(XR) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
 
 (TODO)
 - unity
 - quest3
 - ar/vr
   
-## 3.1.4. Backend Development ![](https://img.shields.io/badge/level%203-competent-f08c11) 
+### 3.1.4. Backend Development ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 
 - Language: Python, TypeScript, Golang, C++, Java (sort by skill level)
 - Framework: NestJS, Django
@@ -131,13 +131,13 @@ focusing on Machine Learning (ML), Development (Dev), including:
   - [Design Pattern](https://refactoring.guru/)
   - [Clean Architecture](http://www.yes24.com/Product/Goods/77283734)
 
-## 3.1.5. Data Engineering ![](https://img.shields.io/badge/level%203-competent-f08c11)
+### 3.1.5. Data Engineering ![](https://img.shields.io/badge/level%203-competent-f08c11)
 
 - Apply Kafka, Druid, Kinesis to [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) [2022, Corca]
 - Data Transform, Data Analysis, Data Store, Data Load
 - Distributed System Study Group [2022, Corca]
 
-## 3.1.6. Development Operations (DevOps) ![](https://img.shields.io/badge/level%203-competent-f08c11)
+### 3.1.6. Development Operations (DevOps) ![](https://img.shields.io/badge/level%203-competent-f08c11)
 
 - **Container** (docker, docker-compose) [2020, 2021, 2022 : Corca]
 - **Functional Test**;Unit, Integration, End2End [2021, 2022 : Corca]
@@ -148,7 +148,7 @@ focusing on Machine Learning (ML), Development (Dev), including:
 - **[BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) Deployment** (ECS, MSK, github actions, pulumi) [2022 : Corca]
 - **MLOpsCurriculum Development** [2022 : Corca]
 
-## 3.1.7. Architecture Design ![](https://img.shields.io/badge/level%203-competent-f08c11)
+### 3.1.7. Architecture Design ![](https://img.shields.io/badge/level%203-competent-f08c11)
 
 - Design [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) that bids for ads using a control model and CTR prediction model that use 10K data per second. [2022, Corca]
 - (TODO) Recommender System
@@ -228,7 +228,7 @@ focusing on Machine Learning (ML), Development (Dev), including:
 
 - [RL Study Group](TODO)
 
-## 3.2.6. Machine Learning Operations (MLOps) ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
+### 3.2.6. Machine Learning Operations (MLOps) ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
 
 - django middleware
 - gRPC
