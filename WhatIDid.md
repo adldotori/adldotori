@@ -3,7 +3,8 @@
 # Career
 
 - Seoul Science High School (SSHS) [2014.03-2017.02]
-- Korea University Cyber Defense [2017.03-2021.02]
+- Korea University CYber DeFense [2017.03-2021.02]
+  - Served as the Vice President of DevKor, a development-focused student club 
 - iOS Developer in ZI:UM [2017.03-2017.06]
 - Web Full Stack Engineer in HelloAlgo [2019.02-2019.08]
 - ML Engineer in MindLogic [2020.01-2020.10]
@@ -28,6 +29,49 @@
 - Clarificate Part's R&R (ML, MLOps, Data Part)
 - 1 On 1 Interview
 - Develop team's code quality through code review
+
+# Recruitment
+## Sourcing
+
+- Direct Sourcing in Corca (9 people)
+  - 5 people (2021), 1 person (2022), 3 people (2023)
+    - BG, SY, SM, HG, CH / JW / HJ, DH, BR
+  - Lead a dynamic one-hour presentation on Corca's vision, inspiring candidates to join and shape its future.
+-  Indirect Sourcing in Corca (8 people)
+  - **[from DevKor]** 1 person (2021), 1 person (2022), 2 people (2023)
+    - SJ / SM / JS, GR
+  - **[from [GroupBy](https://groupby.kr/)]**  2 people (2022), 3 people (2023)
+    - SG, SH / SP, GJ, MJ
+- External Platform
+  - Use [GroupBy](https://groupby.kr/) recruitment service
+  - presented at a job briefing hosted by GroupBy
+
+## Assignment
+- Collaborated with team members in the design and development of diverse assignments,
+focusing on Machine Learning (ML), Development (Dev), including:
+
+| Name | Part | Type | Release Date  | Activated |
+|-----|-----|-----|---|---|
+|  Self-Promotion Dive: Time Series   |  ML   |  Time-Series   | 2021.08.  | False |
+|   Bob-Bot v2.0  |  ML   |  Optimization   | 2022.01.  | False |
+|   Real-Time Calcifer  |  Dev   |  DevOps   | 2022.03.  | False |
+|  Self-Promotion Dive: Time Series v2.0   |  ML   |  Time-Series   | 2022.11.  | False |
+|   Self-Promotion Dive: CTR Prediction  |  ML   |  Recommender System   | 2023.04.  | True |
+|   Greeting Protocol  |  Dev   |  Backend   | 2023.05.  | True |
+|   Develop Agent  |  ML   |  LLM   | 2023.08.  | True |
+|   LLM Efficient Fine-Tuning  |  ML   |  NLP   | 2023.09.  | True |
+
+- Developed a systematic process for managing Corca's assignments by defining criteria for suitable assignments.
+  This involved quarterly consensus meetings with stakeholders to decide on one of four actions: extending the verification date, enhancing the assignment, generating new assignment, or opting for no action.
+
+## Interview
+- Participated in over 50 practical interviews
+- Utilizing targeted questions to comprehensively assess candidates' potential and acceleration abilities.
+- Focused on discerning self-motivation through their vision responses, and evaluated collaboration skills based on their communication clarity and articulation.
+
+## Assessment
+- Developed a system to quantitatively measure the correlation between predicted and actual performance of candidates at the time of hiring and during the probation period. This enabled enhancements in performance prediction.
+- As of the end of 2023, achieved a correlation of 0.72 in the ML Part and 0.91 in the Dev Part.
 
 # Tech
 
