@@ -85,18 +85,23 @@ focusing on Machine Learning (ML), Development (Dev), including:
 ## 1.2. Training ![](https://img.shields.io/badge/level%203-competent-f08c11)
 - Develop team's code quality through code review
 - Tech Curriculum Development (MLOps, Data)
-- HASAN (TODO)
+- HASAN (INFRA, NLP, AGENT, DESIGN) (TODO)
 - recommend a book
+- onboarding process
 
 ## 1.3. Culture ![](https://img.shields.io/badge/level%203-competent-f08c11)
 - Postmortem Culture
 - Tech Seminar
+- Team Review
+- Team Ability & Objectives
+- meeting management
 
 ## 1.4. Leadership ![](https://img.shields.io/badge/level%203-competent-f08c11)
 - Efficiently lead a team of 10 or more people
 - Assign tasks considering priorities, team members' capabilities, etc
 - Clarificate Part's R&R (ML, MLOps, Data Part)
 - 1 On 1 Interview (100+)
+- Develop a **Corca Engineering Career Framework**
 
 # 2. Product ![](https://img.shields.io/badge/level%202-advanced-ebd30d) 
 ## 2.1. Product Design ![](https://img.shields.io/badge/level%203-competent-f08c11)
