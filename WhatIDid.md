@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/level%204-proficient-e63c11) 
 ![](https://img.shields.io/badge/level%205-expert-db0011)
 
-# Career
+# 0. Career
 
 - Seoul Science High School (SSHS) [2014.03-2017.02]
 - Korea University CYber DeFense [2017.03-2021.02]
@@ -17,6 +17,27 @@
   - ML Engineer [2021.03-2022.02]
   - Tech Lead [2022.03-Present]
 
+## 0.1. Presentation
+1. 서울과학고 진로 탐색의 날 [2023.05.20]
+    - Topic: AGI 시대를 이끌어가기 위한 준비
+    - 참석 인원 수: 20명
+2. Scipy 컨퍼런스 [2023.05.20]
+    - Topic: GPT4를 이용한 당신의 에이전트, EVAL
+    - 참석 인원 수: 150명
+3. ChatGPTers AI 토크 [온라인, 2023.06.05]
+    - Topic: LLM파인튜닝 vs 프롬프트 엔지니어링
+    - 참석 인원 수: 80명
+4. PyCon 2023 [2023.08.13]
+    - Topic: MLOps, LLM 개발에 필요한 실전 파이썬 디자인 패턴
+    - 참석 인원 수: 300명
+5. 디스콰이엇 프로덕트 라운지 [2023.11.22]
+    - Topic: 코르카 LLM
+    - 참석 인원 수: 50명
+6. VESSL AI MLOps Now [2023.11.24]
+    - Topic: 코르카가 바라보는 LLM 기술과 제품의 방향
+    - 참석 인원 수: 60명
+
+
 # 1. Management ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 ## 1.1. Recruitment ![](https://img.shields.io/badge/level%203-competent-f08c11)
 ### 1.1.1. Sourcing ![](https://img.shields.io/badge/level%203-competent-f08c11)
@@ -26,7 +47,7 @@
     - BG, SY, SM, HG, CH / JW / HJ, DH, BR
   - Lead a dynamic one-hour presentation on Corca's vision, inspiring candidates to join and shape its future.
 -  Indirect Sourcing in Corca (8 people)
-  - **[from DevKor]** 1 person (2021), 1 person (2022), 2 people (2023)
+  - **[from DevKor]** 1 person (2021), 1 person (2022), 2 people (2023)
     - SJ / SM / JS, GR
   - **[from [GroupBy](https://groupby.kr/)]**  2 people (2022), 3 people (2023)
     - SG, SH / SP, GJ, MJ
@@ -80,11 +101,22 @@ focusing on Machine Learning (ML), Development (Dev), including:
 # 2. Product ![](https://img.shields.io/badge/level%202-advanced-ebd30d) 
 ## 2.1. Product Design ![](https://img.shields.io/badge/level%203-competent-f08c11)
 - Develop and plan new products considering network effects
+- ADCIO
+- ADCIO Agent
+- Agent Village
+- Corca B2B SaaS (태호의 생각노트)
+- AdTech with AI
 (TODO)
 ## 2.2. Sales & Marketing ![](https://img.shields.io/badge/level%201-beginner-84b918)
 (TODO)
+- find client
+- outbound sales
+
+
 ## 2.3. Pricing ![](https://img.shields.io/badge/level%201-beginner-84b918)
 (TODO)
+- ADCIO BM
+- Agent Village BM
 
 # 3. Tech ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 
@@ -154,15 +186,10 @@ focusing on Machine Learning (ML), Development (Dev), including:
 - (TODO) Recommender System
 
 ## 3.2. Software 2.0 (Machine Learning) ![](https://img.shields.io/badge/level%203-competent-f08c11)
-
-### 3.2.1. Data Analysis ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
-
-**Kaggle Notebook Expert**
-> https://www.kaggle.com/adldotori
-
-- https://www.kaggle.com/code/adldotori/efficientdet-preprocessing-better-than-yolov5
-- https://www.kaggle.com/code/adldotori/efficientdet-training-better-than-yolov5
-- https://www.kaggle.com/code/adldotori/huggingface-distilbertclassification-inference
+### 3.2.1. Recommender System ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
+(TODO)
+- [ACM RecSys Challenge 2023](https://recsys.acm.org/recsys23/challenge/) 7th place
+- paper
 
 ### 3.2.2. Computer Vision ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
 
@@ -197,9 +224,19 @@ focusing on Machine Learning (ML), Development (Dev), including:
 (TODO)
 - PEFT
 - RTRFT
+  - Set a important topic
   - Meta Learning, HyperNetwork
 
-### 3.2.4. Distributed Training ![](https://img.shields.io/badge/level%201-beginner-84b918)
+### 3.2.4. Data Analysis ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
+
+**Kaggle Notebook Expert**
+> https://www.kaggle.com/adldotori
+
+- https://www.kaggle.com/code/adldotori/efficientdet-preprocessing-better-than-yolov5
+- https://www.kaggle.com/code/adldotori/efficientdet-training-better-than-yolov5
+- https://www.kaggle.com/code/adldotori/huggingface-distilbertclassification-inference
+
+### 3.2.5. Distributed Training ![](https://img.shields.io/badge/level%201-beginner-84b918)
 [PipeDream] [2019.09]
 > https://github.com/adldotori/PipeDream
 
@@ -214,7 +251,7 @@ focusing on Machine Learning (ML), Development (Dev), including:
 - ZERO
 - DeepSpeed
 
-### 3.2.5. Reinforcement Learning ![](https://img.shields.io/badge/level%201-beginner-84b918)
+### 3.2.6. Reinforcement Learning ![](https://img.shields.io/badge/level%201-beginner-84b918)
 5stones AI [2018.08]
 
 > https://github.com/adldotori/6stones
@@ -228,14 +265,14 @@ focusing on Machine Learning (ML), Development (Dev), including:
 
 - [RL Study Group](TODO)
 
-### 3.2.6. Machine Learning Operations (MLOps) ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
+### 3.2.7. Machine Learning Operations (MLOps) ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
 
 - django middleware
 - gRPC
 - Experiment Tracking (wandb)
 - checkpoint manage
 
-### 3.2.7. ETC
+### 3.2.8. ETC
 - Cyber Security
   - https://github.com/adldotori/PLA-Attention-Model [2020.06]
     - [Packet-Length-Adjustable Attention Model Based on Bytes Embedding Using Flow-WGAN for Smart Cybersecurity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744218&tag=1)
