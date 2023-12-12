@@ -4,8 +4,8 @@
 ![](https://img.shields.io/badge/level%204-proficient-e63c11) 
 ![](https://img.shields.io/badge/level%205-expert-db0011)
 
-# 0. Career
-
+# 0. CV
+## 0.1. Work Experience
 - Seoul Science High School (SSHS) [2014.03-2017.02]
 - Korea University CYber DeFense [2017.03-2021.02]
   - Served as the Vice President of DevKor, a development-focused student club 
@@ -17,7 +17,7 @@
   - ML Engineer [2021.03-2022.02]
   - Tech Lead [2022.03-Present]
 
-## 0.1. Presentation
+## 0.2. Presentation
 1. 서울과학고 진로 탐색의 날 [2023.05.20]
     - Topic: AGI 시대를 이끌어가기 위한 준비
     - 참석 인원 수: 20명
@@ -37,6 +37,10 @@
     - Topic: 코르카가 바라보는 LLM 기술과 제품의 방향
     - 참석 인원 수: 60명
 
+## 0.3. Publications
+- Taehee Kim, Seungyun Baek, Taehyeon Jeon, Hojin Jung, Joonhong Kim, **Taeho Lee**. "Capturing Performance and Privacy by Assembling Avengers of Online Advertising", 2023, ACM RecSys Challenge Workshop
+## 0.4. Honors & Awards
+- ACM RecSys Challenge 2023 7th place
 
 # 1. Management ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 ## 1.1. Recruitment ![](https://img.shields.io/badge/level%203-competent-f08c11)
