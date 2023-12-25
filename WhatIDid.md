@@ -4,8 +4,8 @@
 ![](https://img.shields.io/badge/level%204-proficient-e63c11) 
 ![](https://img.shields.io/badge/level%205-expert-db0011)
 
-# 0. CV
-## 0.1. Work Experience
+# 1. Career
+## 1.1. Work Experience
 - Seoul Science High School (SSHS) [2014.03-2017.02]
 - Korea University CYber DeFense [2017.03-2021.02]
   - Served as the Vice President of DevKor, a development-focused student club 
@@ -17,7 +17,7 @@
   - ML Engineer [2021.03-2022.02]
   - Tech Lead [2022.03-Present]
 
-## 0.2. Presentation
+## 1.2. Presentation
 1. 서울과학고 진로 탐색의 날 [2023.05.20]
     - Topic: AGI 시대를 이끌어가기 위한 준비
     - 참석 인원 수: 20명
@@ -37,101 +37,16 @@
     - Topic: 코르카가 바라보는 LLM 기술과 제품의 방향
     - 참석 인원 수: 60명
 
-## 0.3. Publications
+## 1.3. Publications
 - Taehee Kim, Seungyun Baek, Taehyeon Jeon, Hojin Jung, Joonhong Kim, **Taeho Lee**. "Capturing Performance and Privacy by Assembling Avengers of Online Advertising", 2023, ACM RecSys Challenge Workshop
-## 0.4. Honors & Awards
+## 1.4. Honors & Awards
 - ACM RecSys Challenge 2023 7th place
 
-# 1. Management ![](https://img.shields.io/badge/level%203-competent-f08c11) 
-## 1.1. Recruitment ![](https://img.shields.io/badge/level%203-competent-f08c11)
-### 1.1.1. Sourcing ![](https://img.shields.io/badge/level%203-competent-f08c11)
+# 2. Tech ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 
-- Direct Sourcing in Corca (9 people)
-  - 5 people (2021), 1 person (2022), 3 people (2023)
-    - BG, SY, SM, HG, CH / JW / HJ, DH, BR
-  - Lead a dynamic one-hour presentation on Corca's vision, inspiring candidates to join and shape its future.
--  Indirect Sourcing in Corca (8 people)
-  - **[from DevKor]** 1 person (2021), 1 person (2022), 2 people (2023)
-    - SJ / SM / JS, GR
-  - **[from [GroupBy](https://groupby.kr/)]**  2 people (2022), 3 people (2023)
-    - SG, SH / SP, GJ, MJ
-- External Platform
-  - Use [GroupBy](https://groupby.kr/) recruitment service
-  - presented at a job briefing hosted by GroupBy
+## 2.1. Software 1.0 (Development) ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 
-### 1.1.2. Assignment ![](https://img.shields.io/badge/level%203-competent-f08c11) 
-- Collaborated with team members in the design and development of diverse assignments,
-focusing on Machine Learning (ML), Development (Dev), including:
-
-| Name | Part | Type | Release Date  | Activated |
-|-----|-----|-----|---|---|
-|  Self-Promotion Dive: Time Series   |  ML   |  Time-Series   | 2021.08.  | False |
-|   Bob-Bot v2.0  |  ML   |  Optimization   | 2022.01.  | False |
-|   Real-Time Calcifer  |  Dev   |  DevOps   | 2022.03.  | False |
-|  Self-Promotion Dive: Time Series v2.0   |  ML   |  Time-Series   | 2022.11.  | False |
-|   Self-Promotion Dive: CTR Prediction  |  ML   |  Recommender System   | 2023.04.  | True |
-|   Greeting Protocol  |  Dev   |  Backend   | 2023.05.  | True |
-|   Develop Agent  |  ML   |  LLM   | 2023.08.  | True |
-|   LLM Efficient Fine-Tuning  |  ML   |  NLP   | 2023.09.  | True |
-
-- Developed a systematic process for managing Corca's assignments by defining criteria for suitable assignments.
-  This involved quarterly consensus meetings with stakeholders to decide on one of four actions: extending the verification date, enhancing the assignment, generating new assignment, or opting for no action.
-
-## 1.1.3. Interview ![](https://img.shields.io/badge/level%203-competent-f08c11)
-- Participated in over 50 practical interviews
-- Utilizing targeted questions to comprehensively assess candidates' potential and acceleration abilities.
-- Focused on discerning self-motivation through their vision responses, and evaluated collaboration skills based on their communication clarity and articulation.
-
-## 1.1.4. Assessment ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
-- Developed a system to quantitatively measure the correlation between predicted and actual performance of candidates at the time of hiring and during the probation period. This enabled enhancements in performance prediction.
-- As of the end of 2023, achieved a correlation of 0.72 in the ML Part and 0.91 in the Dev Part.
-
-## 1.2. Training ![](https://img.shields.io/badge/level%203-competent-f08c11)
-- Develop team's code quality through code review
-- Tech Curriculum Development (MLOps, Data)
-- HASAN (INFRA, NLP, AGENT, DESIGN) (TODO)
-- recommend a book
-- onboarding process
-
-## 1.3. Culture ![](https://img.shields.io/badge/level%203-competent-f08c11)
-- Postmortem Culture
-- Tech Seminar
-- Team Review
-- Team Ability & Objectives
-- meeting management
-
-## 1.4. Leadership ![](https://img.shields.io/badge/level%203-competent-f08c11)
-- Efficiently lead a team of 10 or more people
-- Assign tasks considering priorities, team members' capabilities, etc
-- Clarificate Part's R&R (ML, MLOps, Data Part)
-- 1 On 1 Interview (100+)
-- Develop a **Corca Engineering Career Framework**
-
-# 2. Product ![](https://img.shields.io/badge/level%202-advanced-ebd30d) 
-## 2.1. Product Design ![](https://img.shields.io/badge/level%203-competent-f08c11)
-- Develop and plan new products considering network effects
-- ADCIO
-- ADCIO Agent
-- Agent Village
-- Corca B2B SaaS (태호의 생각노트)
-- AdTech with AI
-(TODO)
-## 2.2. Sales & Marketing ![](https://img.shields.io/badge/level%201-beginner-84b918)
-(TODO)
-- find client
-- outbound sales
-
-
-## 2.3. Pricing ![](https://img.shields.io/badge/level%201-beginner-84b918)
-(TODO)
-- ADCIO BM
-- Agent Village BM
-
-# 3. Tech ![](https://img.shields.io/badge/level%203-competent-f08c11) 
-
-## 3.1. Software 1.0 (Development) ![](https://img.shields.io/badge/level%203-competent-f08c11) 
-
-### 3.1.1. Client(Web) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
+### 2.1.1. Client(Web) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
 
 - https://github.com/adldotori/NaTTakNews
 - Develop [Helloalgo](https://study.helloalgo.co.kr/shop/)
@@ -141,18 +56,18 @@ focusing on Machine Learning (ML), Development (Dev), including:
   - Basic HTML, CSS, JS
   - Use django template
 
-### 3.1.2. Client(App) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
+### 2.1.2. Client(App) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
 
 - KU슐랭 (TODO)
 
-### 3.1.3. Client(XR) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
+### 2.1.3. Client(XR) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
 
 (TODO)
 - unity
 - quest3
 - ar/vr
   
-### 3.1.4. Backend Development ![](https://img.shields.io/badge/level%203-competent-f08c11) 
+### 2.1.4. Backend Development ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 
 - Language: Python, TypeScript, Golang, C++, Java (sort by skill level)
 - Framework: NestJS, Django
@@ -172,13 +87,13 @@ focusing on Machine Learning (ML), Development (Dev), including:
   - [Design Pattern](https://refactoring.guru/)
   - [Clean Architecture](http://www.yes24.com/Product/Goods/77283734)
 
-### 3.1.5. Data Engineering ![](https://img.shields.io/badge/level%203-competent-f08c11)
+### 2.1.5. Data Engineering ![](https://img.shields.io/badge/level%203-competent-f08c11)
 
 - Apply Kafka, Druid, Kinesis to [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) [2022, Corca]
 - Data Transform, Data Analysis, Data Store, Data Load
 - Distributed System Study Group [2022, Corca]
 
-### 3.1.6. Development Operations (DevOps) ![](https://img.shields.io/badge/level%203-competent-f08c11)
+### 2.1.6. Development Operations (DevOps) ![](https://img.shields.io/badge/level%203-competent-f08c11)
 
 - **Container** (docker, docker-compose) [2020, 2021, 2022 : Corca]
 - **Functional Test**;Unit, Integration, End2End [2021, 2022 : Corca]
@@ -189,18 +104,18 @@ focusing on Machine Learning (ML), Development (Dev), including:
 - **[BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) Deployment** (ECS, MSK, github actions, pulumi) [2022 : Corca]
 - **MLOpsCurriculum Development** [2022 : Corca]
 
-### 3.1.7. Architecture Design ![](https://img.shields.io/badge/level%203-competent-f08c11)
+### 2.1.7. Architecture Design ![](https://img.shields.io/badge/level%203-competent-f08c11)
 
 - Design [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) that bids for ads using a control model and CTR prediction model that use 10K data per second. [2022, Corca]
 - (TODO) Recommender System
 
-## 3.2. Software 2.0 (Machine Learning) ![](https://img.shields.io/badge/level%203-competent-f08c11)
-### 3.2.1. Recommender System ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
+## 2.2. Software 2.0 (Machine Learning) ![](https://img.shields.io/badge/level%203-competent-f08c11)
+### 2.2.1. Recommender System ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
 (TODO)
 - [ACM RecSys Challenge 2023](https://recsys.acm.org/recsys23/challenge/) 7th place
 - paper
 
-### 3.2.2. Computer Vision ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
+### 2.2.2. Computer Vision ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
 
 - **Basic ML Model Implementation**
   - https://github.com/adldotori/ResNet
@@ -227,7 +142,7 @@ focusing on Machine Learning (ML), Development (Dev), including:
   - conditionedBody [2020, MindLogic]
     - Create a person's entire body image with face image condition
 
-### 3.2.3. Natural Language Processing ![](https://img.shields.io/badge/level%203-competent-f08c11)
+### 2.2.3. Natural Language Processing ![](https://img.shields.io/badge/level%203-competent-f08c11)
 - **Basic ML Model Implementation**
   - https://github.com/adldotori/Transformer
 (TODO)
@@ -236,7 +151,7 @@ focusing on Machine Learning (ML), Development (Dev), including:
   - Set a important topic
   - Meta Learning, HyperNetwork
 
-### 3.2.4. Data Analysis ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
+### 2.2.4. Data Analysis ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
 
 **Kaggle Notebook Expert**
 > https://www.kaggle.com/adldotori
@@ -245,7 +160,7 @@ focusing on Machine Learning (ML), Development (Dev), including:
 - https://www.kaggle.com/code/adldotori/efficientdet-training-better-than-yolov5
 - https://www.kaggle.com/code/adldotori/huggingface-distilbertclassification-inference
 
-### 3.2.5. Distributed Training ![](https://img.shields.io/badge/level%201-beginner-84b918)
+### 2.2.5. Distributed Training ![](https://img.shields.io/badge/level%201-beginner-84b918)
 [PipeDream] [2019.09]
 > https://github.com/adldotori/PipeDream
 
@@ -260,7 +175,7 @@ focusing on Machine Learning (ML), Development (Dev), including:
 - ZERO
 - DeepSpeed
 
-### 3.2.6. Reinforcement Learning ![](https://img.shields.io/badge/level%201-beginner-84b918)
+### 2.2.6. Reinforcement Learning ![](https://img.shields.io/badge/level%201-beginner-84b918)
 5stones AI [2018.08]
 
 > https://github.com/adldotori/6stones
@@ -274,14 +189,14 @@ focusing on Machine Learning (ML), Development (Dev), including:
 
 - [RL Study Group](TODO)
 
-### 3.2.7. Machine Learning Operations (MLOps) ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
+### 2.2.7. Machine Learning Operations (MLOps) ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
 
 - django middleware
 - gRPC
 - Experiment Tracking (wandb)
 - checkpoint manage
 
-### 3.2.8. ETC
+### 2.2.8. ETC
 - Cyber Security
   - https://github.com/adldotori/PLA-Attention-Model [2020.06]
     - [Packet-Length-Adjustable Attention Model Based on Bytes Embedding Using Flow-WGAN for Smart Cybersecurity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744218&tag=1)
@@ -290,7 +205,96 @@ focusing on Machine Learning (ML), Development (Dev), including:
     - Sales forecasting Model considering sale events for Emart
 
 
-## 3.3. Software 3.0 (LLM) ![](https://img.shields.io/badge/level%203-competent-f08c11)
+## 2.3. Software 3.0 (LLM) ![](https://img.shields.io/badge/level%203-competent-f08c11)
 - EVAL
 - AIvilization
 - (TODO)
+
+# 3. Product ![](https://img.shields.io/badge/level%202-advanced-ebd30d) 
+## 3.1. Product Design ![](https://img.shields.io/badge/level%203-competent-f08c11)
+- Develop and plan new products considering network effects
+- ADCIO
+- ADCIO Agent
+- Agent Village
+- Corca B2B SaaS (태호의 생각노트)
+- AdTech with AI
+- Set Product's Vision, Core Value, Objectives
+(TODO)
+## 3.2. Sales & Marketing ![](https://img.shields.io/badge/level%201-beginner-84b918)
+(TODO)
+- find client
+- outbound sales
+
+
+## 3.3. Pricing ![](https://img.shields.io/badge/level%201-beginner-84b918)
+(TODO)
+- ADCIO BM
+- Agent Village BM
+
+
+# 4. Team ![](https://img.shields.io/badge/level%203-competent-f08c11) 
+## 4.1. Recruitment ![](https://img.shields.io/badge/level%203-competent-f08c11)
+### 4.1.1. Sourcing ![](https://img.shields.io/badge/level%203-competent-f08c11)
+
+- Direct Sourcing in Corca (9 people)
+  - 5 people (2021), 1 person (2022), 3 people (2023)
+    - BG, SY, SM, HG, CH / JW / HJ, DH, BR
+  - Lead a dynamic one-hour presentation on Corca's vision, inspiring candidates to join and shape its future.
+-  Indirect Sourcing in Corca (8 people)
+  - **[from DevKor]** 1 person (2021), 1 person (2022), 2 people (2023)
+    - SJ / SM / JS, GR
+  - **[from [GroupBy](https://groupby.kr/)]**  2 people (2022), 3 people (2023)
+    - SG, SH / SP, GJ, MJ
+- External Platform
+  - Use [GroupBy](https://groupby.kr/) recruitment service
+  - presented at a job briefing hosted by GroupBy
+
+### 4.1.2. Assignment ![](https://img.shields.io/badge/level%203-competent-f08c11) 
+- Collaborated with team members in the design and development of diverse assignments,
+focusing on Machine Learning (ML), Development (Dev), including:
+
+| Name | Part | Type | Release Date  | Activated |
+|-----|-----|-----|---|---|
+|  Self-Promotion Dive: Time Series   |  ML   |  Time-Series   | 2021.08.  | False |
+|   Bob-Bot v2.0  |  ML   |  Optimization   | 2022.01.  | False |
+|   Real-Time Calcifer  |  Dev   |  DevOps   | 2022.03.  | False |
+|  Self-Promotion Dive: Time Series v2.0   |  ML   |  Time-Series   | 2022.11.  | False |
+|   Self-Promotion Dive: CTR Prediction  |  ML   |  Recommender System   | 2023.04.  | True |
+|   Greeting Protocol  |  Dev   |  Backend   | 2023.05.  | True |
+|   Develop Agent  |  ML   |  LLM   | 2023.08.  | True |
+|   LLM Efficient Fine-Tuning  |  ML   |  NLP   | 2023.09.  | True |
+
+- Developed a systematic process for managing Corca's assignments by defining criteria for suitable assignments.
+  This involved quarterly consensus meetings with stakeholders to decide on one of four actions: extending the verification date, enhancing the assignment, generating new assignment, or opting for no action.
+
+## 4.1.3. Interview ![](https://img.shields.io/badge/level%203-competent-f08c11)
+- Participated in over 50 practical interviews
+- Utilizing targeted questions to comprehensively assess candidates' potential and acceleration abilities.
+- Focused on discerning self-motivation through their vision responses, and evaluated collaboration skills based on their communication clarity and articulation.
+
+## 4.1.4. Assessment ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
+- Developed a system to quantitatively measure the correlation between predicted and actual performance of candidates at the time of hiring and during the probation period. This enabled enhancements in performance prediction.
+- As of the end of 2023, achieved a correlation of 0.72 in the ML Part and 0.91 in the Dev Part.
+
+## 4.2. Training ![](https://img.shields.io/badge/level%203-competent-f08c11)
+- Develop team's code quality through code review
+- Tech Curriculum Development (MLOps, Data)
+- HASAN (INFRA, NLP, AGENT, DESIGN) (TODO)
+- recommend a book
+- onboarding process
+
+## 4.3. Culture ![](https://img.shields.io/badge/level%203-competent-f08c11)
+- Postmortem Culture
+- Tech Seminar
+- Team Review
+- Team Ability & Objectives
+- meeting management
+
+## 4.4. Leadership ![](https://img.shields.io/badge/level%203-competent-f08c11)
+- Efficiently lead a team of 10 or more people
+- Assign tasks considering priorities, team members' capabilities, etc
+- Clarification Part's R&R (ML, MLOps, Data Part)
+- 1 On 1 Interview (100+)
+- Develop a **Corca Engineering Career Framework**
+### 4.4.1. Team Building
+- Set the Team's Vision and objectives (Agent Team, RecSys Team)
