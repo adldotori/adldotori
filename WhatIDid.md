@@ -42,36 +42,39 @@
 ## 1.4. Honors & Awards
 - ACM RecSys Challenge 2023 7th place
 
-# 2. Tech ![](https://img.shields.io/badge/level%203-competent-f08c11) 
+# 2. Tech ![](https://img.shields.io/badge/level%204-proficient-e63c11)
 
 ## 2.1. Software 1.0 (Development) ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 
 ### 2.1.1. Client(Web) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
 
-- https://github.com/adldotori/NaTTakNews
-- Develop [Helloalgo](https://study.helloalgo.co.kr/shop/)
-  - Basic HTML, CSS, JS
-  - Use django template
+- Develop a [NaTTakNews](https://github.com/adldotori/NaTTakNews) with php [2018.06]
+- Develop [Helloalgo](https://study.helloalgo.co.kr/shop/) [2019.02-2019.08]
+  - Basic HTML, CSS, JS, SCSS
+  - Use Django template
 - Develop [AIHub] (self-developed blog running on AWS) [2019.08-2022.04]
-  - Basic HTML, CSS, JS
-  - Use django template
+  - Basic HTML, CSS, JS, SCSS
+  - Use Django template
+- Develop [ADCIO](https://www.adcio.ai/) Admin Page [2023.01-2023.03]
+  - NextJS
 
 ### 2.1.2. Client(App) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
 
-- KU슐랭 (TODO)
+- KU슐랭
+  - Swift, SwiftUI
+  - <img src="https://github.com/adldotori/adldotori/assets/19206046/08ac01d6-6bf7-41e2-bf8f-7572a282296b" width="200">
+
 
 ### 2.1.3. Client(XR) Development ![](https://img.shields.io/badge/level%201-beginner-84b918) 
-
-(TODO)
-- unity
-- quest3
-- ar/vr
+- unity, C#
+- Develop an AR App that runs on **iOS**
+- Develop an AR Shooting Game that runs on **Meta Quest3**
   
 ### 2.1.4. Backend Development ![](https://img.shields.io/badge/level%203-competent-f08c11) 
 
 - Language: Python, TypeScript, Golang, C++, Java (sort by skill level)
-- Framework: NestJS, Django
-- Develop [Helloalgo](https://study.helloalgo.co.kr/shop/)
+- Framework: NestJS, Django, FastAPI
+- Develop [Helloalgo](https://study.helloalgo.co.kr/shop/) [2019.02-2019.08]
   - Django
 - Develop [AIhub](https://www.t4eh0.com/ai-hub/) (self-developed blog running on AWS) [2019.08-2022.04]
   - Django
@@ -80,6 +83,11 @@
   - Light Trainer
   - Receiver
   - Inference (produce, bid)
+- Develop [ADCIO](https://adcio.ai/) [2023]
+  - Controller
+  - Actuator
+  - Trainer
+  - Preprocessor
 - Software Engineering Technique Study Group [2021.06-2022.08]
   - [The practice of programming](http://www.yes24.com/Product/Goods/2833579)
   - [Refactoring](http://www.yes24.com/Product/Goods/89649360)
@@ -90,7 +98,7 @@
 ### 2.1.5. Data Engineering ![](https://img.shields.io/badge/level%203-competent-f08c11)
 
 - Apply Kafka, Druid, Kinesis to [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) [2022, Corca]
-- Data Transform, Data Analysis, Data Store, Data Load
+  - Data Transform, Data Analysis, Data Store, Data Load
 - Distributed System Study Group [2022, Corca]
 
 ### 2.1.6. Development Operations (DevOps) ![](https://img.shields.io/badge/level%203-competent-f08c11)
@@ -107,7 +115,8 @@
 ### 2.1.7. Architecture Design ![](https://img.shields.io/badge/level%203-competent-f08c11)
 
 - Design [BEAT(Bidding Engine for AdTech)](https://medium.com/corca/beat-bidding-engine-for-adtech-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-1%ED%8E%B8-c7646efec9a8) that bids for ads using a control model and CTR prediction model that use 10K data per second. [2022, Corca]
-- (TODO) Recommender System
+  - Design an architecture that takes into account the dependencies between components, fault tolerance, and scalability.
+- Design Corca Recommender System (YELT) [2023, Corca]
 
 ## 2.2. Software 2.0 (Machine Learning) ![](https://img.shields.io/badge/level%203-competent-f08c11)
 ### 2.2.1. Recommender System ![](https://img.shields.io/badge/level%202-advanced-ebd30d)
@@ -220,6 +229,7 @@
 - AdTech with AI
 - Set Product's Vision, Core Value, Objectives
 (TODO)
+
 ## 3.2. Sales & Marketing ![](https://img.shields.io/badge/level%201-beginner-84b918)
 (TODO)
 - find client
@@ -296,5 +306,9 @@ focusing on Machine Learning (ML), Development (Dev), including:
 - Clarification Part's R&R (ML, MLOps, Data Part)
 - 1 On 1 Interview (100+)
 - Develop a **Corca Engineering Career Framework**
+
 ### 4.4.1. Team Building
-- Set the Team's Vision and objectives (Agent Team, RecSys Team)
+- Build ADCIO Agent Squad, RecSys Squad, RTRFT Squad, Agent Village Squad
+  - Set Squad's Mission
+  - Set each person's role
+  - Set Team's Work Process
